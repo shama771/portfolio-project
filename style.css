@@ -1,0 +1,28 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.header1{
+    background-color: rgba(109, 81, 187, 0.384) ;
+    width: 100vw;
+    height: 50px;
+
+}
+
+
+.header-content{
+    /* text-align: end; */
+   
+    display: flex;
+    /* justify-content: end; */
+     justify-content: space-evenly;
+    padding-top: 5px;
+}
+
+.portfolio{
+    text-align: center;
+}
