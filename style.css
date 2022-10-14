@@ -1,28 +1,135 @@
 
-body{
-    padding: 0px;
+.header1{
+    font-family: 'Rubik', sans-serif;
+    padding-top: 0px ;
     margin: 0px;
 }
 
 
 
-.header1{
-    background-color: rgba(109, 81, 187, 0.384) ;
-    width: 100vw;
-    height: 50px;
+
+
+
+.header-content1{
+ border: 5px solid rgb(47,112,192);
+ background-color: rgb(47,112,192);
+ text-align: end;
+ padding-top: 0px ;
+ margin: 0px;
 
 }
-
 
 .header-content{
-    /* text-align: end; */
-   
-    display: flex;
-    /* justify-content: end; */
-     justify-content: space-evenly;
-    padding-top: 5px;
+    /* border: 1px solid red; */
+    color:  whitesmoke;
+padding-right: 30px;
+padding-top: 0px;
+margin: 0px;
+
 }
 
-.portfolio{
+
+
+.my-name{
+
+    
+    /* font-family: 'Kanit', sans-serif; */
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+.body-part{
+    background-color:rgb(91,163,239);
+    /* display: flex; */
+    padding-top: 40px;
+    padding-left: 300px;
+    color: rgba(255, 255, 255, 0.747);
+    /* color: black; */
+    /* height: 100%; */
+}
+
+.pic{
+    width: 100px;
+}
+
+.logo{
+    /* border: 0px solid; */
+     padding-left: 30px;
+     /* padding-bottom: 0px;    */
+     padding-top: 200px;
+     display: flex;
+     align-items: ;
+
+}
+
+#a,#b,#c,#d,#e{
+    padding: 20px;
+}
+
+.intro{
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Kanit', sans-serif; */
+}
+
+.hire-me{
+    border: 2px solid rgb(47,112,192);
+    background-color: rgb(47,112,192);
+    padding: 4px;
+    color: whitesmoke;
+    
+}
+
+.button{
+    padding-bottom: 25px;
+}
+.skills-overview{
+    padding-left: 20%;
+    padding-right:20%; 
     text-align: center;
+    /* font-family: 'Kanit', sans-serif; */
+    font-family: 'Rubik', sans-serif;
+    background-color: rgba(240, 240, 228, 0.856);
+    border: 2px solid rgba(240, 240, 228, 0.856);
+}
+.only-skills-overview{
+    font-family: 'Kanit', sans-serif;
+    color: rgb(107, 94, 94);
+}
+
+.resume{
+    color: rgb(47,112,192);
+}
+.front-end{
+    padding-left: 60px;
+}
+
+.frontend-topics{
+    padding: 0px;
+    margin: 10px;
+}
+
+.Back-end{
+    padding-left: 60px ;
+}
+.others{
+    padding-left:60px ;
+    
+}
+
+.skill-sets{
+    background-color: rgb(194, 214, 214);
+    display: flex;
+    justify-content: space-around ;
+
+}
+.footer{
+    height: 20px;
+    /* border: 4px solid  rgb(47,112,192); */
+    padding: 0%;
+    margin: 0%;
+    background-color:  rgb(47,112,192);
+    display: flex;
+    justify-content: space-around;
+    /* text-align:justify; */
+    
 }
